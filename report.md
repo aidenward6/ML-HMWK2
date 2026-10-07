@@ -1,6 +1,6 @@
 ---
 title: "Programming Assignment 2: From Two Binary Classifiers to Softmax Regression"
-author: "Aiden Ward and Grady Algire"
+author: "Aiden Ward, Brady Cooper, and Grady Algire"
 date: "Fall 2026"
 geometry: margin=0.65in
 fontsize: 11pt
