@@ -1,18 +1,3 @@
-"""
-Provided starter code -- Homework: From Two Binary Classifiers to Softmax
-Regression on Iris (introductory version).
-
-You do NOT need to modify or hand in this file. It gives you working,
-from-scratch (numpy + csv only) implementations of the data-handling and
-scoring utilities so you can focus on the models themselves in Parts 1-3.
-
-Put iris_utils.py and iris.csv in the same folder as your solution and:
-
-    from iris_utils import *
-    X, y = load_iris_csv("iris.csv")
-    Xtr_raw, Xte_raw, ytr, yte = stratified_split(X, y, test_fraction=0.3, seed=0)
-    Xtr, Xte, mu, sd = standardize(Xtr_raw, Xte_raw)
-"""
 import csv
 import numpy as np
 
