@@ -1,6 +1,6 @@
 """
 hw2.py homework2
-Aiden Ward and Grady Algire, both of us put equal effort into assignment
+Aiden Ward, Brady Cooper, and Grady Algire all of us put equal effort into assignment
 """
 
 import numpy as np
